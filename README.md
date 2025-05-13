@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wakim Sutthi
 ====================================================================================================================================
 
-Web Developer & Game Developer
+Web Developer 
 ------------------------------
 
 I am a web developer passionate about modern technology, clean and readable code, and creating user-friendly websites. I am open to learning new things and developing myself through hands-on experience and collaboration with others.
