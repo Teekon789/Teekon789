@@ -1,15 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wakim Sutthi
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=000000&vCenter=true&width=500&lines=Hi!+My+name+is+Wakim_Sutthi" alt="Black Typing" />
+</p> 
 ====================================================================================================================================
+
 
 Web Developer
 -------------
 
 Web developer passionate about modern technology, clean and readable code, and user-focused design. Eager to learn, grow through hands-on experience, and collaborate with others.
 
-* 🌍  I'm based in Bangkok
-* 🖥️  See my portfolio at [Portfolio\_wakim](http://portflio-wakim.vercel.app/)
-* ✉️  You can contact me at [wakim.transaction@gmail.com](mailto:wakim.transaction@gmail.com)
-* 🧠  I'm learning ReactJS NextJS TypeScipt React Native Flutter NuxtJS Angular
+* 🌍  I'm based in Bangkok
+* 🖥️  See my portfolio at [Portfolio\_wakim](http://portflio-wakim.vercel.app/)
+* ✉️  You can contact me at [wakim.transaction@gmail.com](mailto:wakim.transaction@gmail.com)
+* 🧠  I'm learning ReactJS NextJS TypeScipt React Native Flutter NuxtJS Angular
 
 ### Skills
 
