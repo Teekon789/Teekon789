@@ -12,7 +12,7 @@ Web developer passionate about modern technology, clean and readable code, and u
 * 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [Portfolio\_wakim](http://portflio-wakim.vercel.app/)
 * ✉️  You can contact me at [wakim.transaction@gmail.com](mailto:wakim.transaction@gmail.com)
-* 🧠  I'm learning ReactJS NextJS TypeScipt React Native Flutter NuxtJS Angular
+* 🧠  I'm learning ReactJS NextJS TypeScipt React Native Flutter NuxtJS Angular three.js
 
 ### Skills
 
